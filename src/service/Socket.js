@@ -1,0 +1,4 @@
+
+var SokcetClient = function (url) {
+
+}
